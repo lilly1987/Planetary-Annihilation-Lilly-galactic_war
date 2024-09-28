@@ -1,0 +1,19 @@
+{
+    "context": "client",
+    "identifier": "com.lilly.galactic_war",
+    "display_name": "Planetary-Annihilation-Lilly-galactic_war",
+    "description": "Planetary-Annihilation-Lilly-galactic_war",
+    "author": "lilly",
+    "version": "1.0.0",
+    "build": "120799",
+    "date": "2024-09-29",
+    "signature": " ",
+    "forum": "https://github.com/lilly1987/Planetary-Annihilation-Lilly-galactic_war",
+    "github": "https://github.com/lilly1987/Planetary-Annihilation-Lilly-galactic_war",
+    "category":
+    [
+        "ui"
+    ],
+    "titansOnly": true,
+    "enabled": true
+}
