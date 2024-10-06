@@ -5,7 +5,7 @@ define([
 ) {
 
     return {
-        initialCardSlots: 16,
+        initialCardSlots: 20,
 
         numberOfSystems: [
                 18, // Small
